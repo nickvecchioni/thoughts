@@ -1,0 +1,11 @@
+title: Thoughts
+description: A personal blog about stuff.
+baseurl: "/thoughts"
+url: ""
+
+theme: minima
+
+permalink: /:year/:month/:day/:title/
+
+header_pages:
+  - about.md
