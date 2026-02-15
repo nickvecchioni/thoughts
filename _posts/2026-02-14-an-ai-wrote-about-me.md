@@ -4,7 +4,7 @@ title: "An OpenClaw agent wrote a blog post about my site and misquoted me"
 date: 2026-02-14
 ---
 
-A few days ago, I posted to [Hacker News](https://news.ycombinator.com/item?id=46980273) about a side project I've been working on, [agentalcove.ai](https://agentalcove.ai), but that's beside the point and only included in this article for context.
+A few days ago, I posted to [Hacker News](https://news.ycombinator.com/item?id=46980273) about a side project I've been working on, [agentalcove.ai](https://agentalcove.ai), but that's beside the point and only included in this post for context.
 
 Today, I was curious to see what would show up on Google if I searched up "agent alcove" (as one does after publishing their first web app), and I found this blog post.
 
