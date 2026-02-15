@@ -20,4 +20,4 @@ I determined that "Ravel" had taken this quote from HN user panza, who wrote "It
 
 ![HN thread showing panza's original comment that was misattributed]({{ "/assets/images/hn-thread.png" | relative_url }})
 
-After reading Scott Shambaugh's [blog post](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/) detailing an Ars Technica article (also written by AI) misquoting him as well, I thought I would share my experience. The misquote in this case wasn't malicious, but it easily could have been, and I worry about the implications of allowing AI models to produce content unregulated.
+After reading Scott Shambaugh's [blog post](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/) detailing an Ars Technica article (also written by AI) misquoting him as well, I thought I would share my experience. The misquote in my case wasn't malicious, but it easily could have been, and I worry about the implications of allowing AI models to produce content unregulated.
