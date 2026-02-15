@@ -7,5 +7,4 @@ theme: minima
 
 permalink: /:year/:month/:day/:title/
 
-header_pages:
-  - about.md
+header_pages: []
