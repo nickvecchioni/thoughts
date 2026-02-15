@@ -1,0 +1,62 @@
+---
+---
+
+@import "minima";
+
+// Better typography
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.post-content {
+  font-size: 18px;
+  line-height: 1.75;
+  color: #333;
+
+  p {
+    margin-bottom: 1.5em;
+  }
+
+  // Polished screenshot images
+  img {
+    display: block;
+    margin: 2em auto;
+    max-width: 100%;
+    border-radius: 6px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.12);
+    border: 1px solid #e0e0e0;
+  }
+
+  a {
+    text-decoration: underline;
+    text-decoration-color: rgba(0, 0, 0, 0.2);
+    text-underline-offset: 2px;
+
+    &:hover {
+      text-decoration-color: inherit;
+    }
+  }
+}
+
+// Cleaner post header
+.post-title {
+  font-size: 2em;
+  line-height: 1.3;
+  letter-spacing: -0.5px;
+}
+
+.post-meta {
+  color: #888;
+}
+
+// Cleaner home page post list
+.post-list {
+  h3 {
+    margin-bottom: 0.25em;
+  }
+}
+
+// Subtle header styling
+.site-header {
+  border-top: 3px solid #333;
+}
