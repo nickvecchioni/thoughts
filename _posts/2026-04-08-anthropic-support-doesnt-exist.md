@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I've been waiting over a month for Anthropic support to respond"
+title: "I've been waiting over a month for Anthropic support to respond to my billing issue"
 date: 2026-04-08
 ---
 
