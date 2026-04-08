@@ -4,7 +4,7 @@ title: "I've been waiting over a month for Anthropic support to respond to my bi
 date: 2026-04-08
 ---
 
-In early March, I noticed approximately $180 in unexpected charges to my Anthropic account. I'm a Claude Max subscriber, and between March 3-5, I received 16 separate "Extra Usage" invoices ranging from $10-$13 each. However, I wasn't using Claude. I was away from my laptop entirely and was out sailing with my parents back home in San Diego.
+In early March, I noticed approximately $180 in unexpected charges to my Anthropic account. I'm a Claude Max subscriber, and between March 3-5, I received 16 separate "Extra Usage" invoices ranging from $10-$13 each, all in quick succession of one another. However, I wasn't using Claude. I was away from my laptop entirely and was out sailing with my parents back home in San Diego.
 
 When I checked my usage dashboard, it showed my session at 100% despite no activity. My Claude Code session history showed two tiny sessions from March 5 totaling under 7KB (no sessions on March 3 or March 4.) Nothing that would explain $180 in Extra Usage charges.
 
