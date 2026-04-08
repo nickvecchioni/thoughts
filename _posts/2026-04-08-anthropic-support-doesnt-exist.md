@@ -6,13 +6,13 @@ date: 2026-04-08
 
 In early March, I noticed approximately $180 in unexpected charges to my Anthropic account. I'm a Claude Max subscriber, and between March 3-5, I received 16 separate "Extra Usage" invoices ranging from $10-$13 each. However, I wasn't using Claude. I was away from my laptop entirely and was out sailing with my parents back home in San Diego.
 
-When I checked my usage dashboard, it showed my session at 100% despite no activity. My Claude Code session history showed two tiny sessions from March 5 totaling under 7KB (no sessions on March 3 or March 4.) Nothing that would explain $180 in extra usage charges.
+When I checked my usage dashboard, it showed my session at 100% despite no activity. My Claude Code session history showed two tiny sessions from March 5 totaling under 7KB (no sessions on March 3 or March 4.) Nothing that would explain $180 in Extra Usage charges.
 
 This isn't just me. Other Max plan users have reported the same issue. There are open GitHub issues about it ([claude-code#29289](https://github.com/anthropics/claude-code/issues/29289) and [claude-code#24727](https://github.com/anthropics/claude-code/issues/24727)), and posts on r/ClaudeCode describing the exact same behavior: usage meters showing incorrect values and Extra Usage charges piling up erroneously.
 
 ## The support experience
 
-On March 7, I sent a detailed email to Anthropic support laying out the situation with all the evidence above. Within two minutes, I received a response... from "Fin AI Agent, Anthropic's AI Agent." The AI agent told me to go through an in-app refund request flow. Sadly, this flow is only applicable for subscriptions, and not for extra usage charges. In addition, I wanted to confirm with a human on exactly what went wrong rather than just getting a refund and calling it a day.
+On March 7, I sent a detailed email to Anthropic support laying out the situation with all the evidence above. Within two minutes, I received a response... from "Fin AI Agent, Anthropic's AI Agent." The AI agent told me to go through an in-app refund request flow. Sadly, this refund pipeline is only applicable for subscriptions, and not for Extra Usage charges. I also wanted to confirm with a human on exactly what went wrong rather than just getting a refund and calling it a day.
 
 So, naturally, I replied asking to speak to a human. The response:
 
