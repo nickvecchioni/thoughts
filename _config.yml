@@ -8,3 +8,5 @@ theme: minima
 permalink: /:year/:month/:day/:title/
 
 header_pages: []
+
+future: true
