@@ -8,7 +8,7 @@ In early March, I noticed approximately $180 in unexpected charges to my Anthrop
 
 When I checked my usage dashboard, it showed my session at 100% despite no activity. My Claude Code session history showed two tiny sessions from March 5 totaling under 7KB (no sessions on March 3 or March 4.) Nothing that would explain $180 in Extra Usage charges.
 
-This isn't just me. Other Max plan users have reported the same issue. There are open GitHub issues about it ([claude-code#29289](https://github.com/anthropics/claude-code/issues/29289) and [claude-code#24727](https://github.com/anthropics/claude-code/issues/24727)), and posts on r/ClaudeCode describing the exact same behavior: usage meters showing incorrect values and Extra Usage charges piling up erroneously.
+This isn't just me. Other Max plan users have reported the same issue. There are numerous GitHub issues about it (e.g. [claude-code#29289](https://github.com/anthropics/claude-code/issues/29289)) and [claude-code#24727](https://github.com/anthropics/claude-code/issues/24727)), and posts on r/ClaudeCode describing the exact same behavior: usage meters showing incorrect values and Extra Usage charges piling up erroneously.
 
 ## The support experience
 
