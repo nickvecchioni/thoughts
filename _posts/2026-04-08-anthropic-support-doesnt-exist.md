@@ -6,7 +6,7 @@ date: 2026-04-08
 
 **Update (April 9, 2025):** Since publishing this post, a human support agent from Anthropic has reached out to me. I appreciate them following up.
 
-**Update 2 (April 9, 2025):** Anthropic's support team traced the charges to a second device that had been logged into my account since early February (which aligns with a short work trial I did with a startup) where I used my own Claude Code subscription on their machine at their request. Even though I logged out, the session apparently persisted. Anthropic gave me the benefit of the doubt, refunded the $190.13 in charges, and walked me through securing my account. Kudos to the team for handling this fairly and making it right.
+**Update 2 (April 9, 2025):** Anthropic's support team traced the charges to a second device that had been logged into my account since early February (which aligns with a short work trial I did with a startup where I used my own Claude Code subscription on their machine at their request.) Even though I logged out, the session apparently persisted. Anthropic gave me the benefit of the doubt, refunded the $190.13 in charges, and walked me through securing my account. Kudos to the team for handling this fairly and making it right.
 
 In early March, I noticed approximately $180 in unexpected charges to my Anthropic account. I'm a Claude Max subscriber, and between March 3-5, I received 16 separate "Extra Usage" invoices ranging from $10-$13 each, all in quick succession of one another. However, I wasn't using Claude. I was away from my laptop entirely and was out sailing with my parents back home in San Diego.
 
